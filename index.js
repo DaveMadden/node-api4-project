@@ -26,7 +26,7 @@ server.post('/api/login', (req, res)=>{
 // })
 // server.get('*', (req,res)=>{
 //     res.send("that's not a valid path but you're still a worthwhile person and i appreciate you")
-// })
+// }) tests
 
 const PORT = process.env.PORT || 8000
 
